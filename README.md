@@ -6,7 +6,7 @@
 
 ### Example usage
 
-* [base_url]/api/whoami
+* [sl477-boilerplate-project-headerparser.glitch.me/api/whoami](https://sl477-boilerplate-project-headerparser.glitch.me/api/whoami)
 
 ### Example output
 
